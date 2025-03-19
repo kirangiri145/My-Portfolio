@@ -13,8 +13,8 @@ function Experiance() {
   return (
     <div name="Experiance" className="max-w-screen-2xl container mx-auto px-4 md:px-20 mt-10">
       <div className="text-left mb-8">
-        <h1 className="text-4xl font-bold mb-2">Experience</h1>
-        <p className="font-semibold">I have experience in the following technologies:</p>
+        <h1 className="text-4xl font-bold mb-2">Learning</h1>
+        <p className="font-semibold">I Learning on the following Technologies:</p>
       </div>
 
       {/* Grid Layout: 2 per row on small, 3 per row on medium, auto on large */}

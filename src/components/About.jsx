@@ -35,16 +35,6 @@ function About() {
       </span>
       <br />
       <br />
-      <h1 className="text-green-500 font-semibold text-xl">
-        Professional Experience
-      </h1>
-      <span>
-        Freelance work, Internships, Personal & Group Projects, Fiverr,
-        Upwork,Toptal, E-Commerce Platform (MERN Stack), Built a fully
-        responsive E-Commerce platform with user authentication and cart
-        functionality, Integrated Stripe Payment Gateway for real transactions,
-        Deployed on Vercel & Render for live access.
-      </span>
       <br />
       <br />
       <h1 className="text-green-500 font-semibold text-xl">

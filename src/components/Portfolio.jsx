@@ -36,15 +36,6 @@ function Portfolio() {
               <p className="text-gray-600 text-sm">A powerful technology for web development.</p>
             </div>
 
-            {/* Buttons (Always at the Bottom) */}
-            <div className="flex justify-between mt-4">
-              <button className="bg-blue-500 hover:bg-blue-700 text-white px-4 py-2 rounded-md w-full mr-2">
-                Videos
-              </button>
-              <button className="bg-green-500 hover:bg-green-700 text-white px-4 py-2 rounded-md w-full">
-                Source Code
-              </button>
-            </div>
           </div>
         ))}
       </div>
