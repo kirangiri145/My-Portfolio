@@ -34,7 +34,7 @@ function Home() {
               interest in building modern, scalable, and user-friendly web
               applications. I specialize in the MERN stack and continuously
               enhance my skills to stay updated with the latest web
-              technologies. Learnig:👉React.js, Next.js, HTML, CSS, JavaScript,
+              technologies. Learnig:👉React.js, HTML, CSS, JavaScript,
               Tailwind CSS, Node.js, Express.js, MongoDB,GitHub,
               Vercel, Netlify..
             </p>

@@ -24,26 +24,21 @@ function About() {
       <br />
       <br />
       <h1 className="text-green-500 font-semibold text-xl">
-        Skill & Experties
+        Skills
       </h1>
       <span>
-        ✅ HTML5, CSS3, JavaScript ✅ React.js (Hooks, Context API,
-        Redux) ✅ Next.js  ✅ Tailwind CSS
-    ✅ Problem-Solving & Debugging ✅ Collaboration & Teamwork ✅
-        Critical Thinking & Decision Making ✅ Time Management & Project
-        Planning
+        ✅ HTML5, CSS, JavaScript ✅ React.js (Hooks, Context API,
+        Redux) ✅ Next.js  ✅ Tailwind CSS  MERN stack (MongoDB, Express.js, React, and Node.js)
       </span>
       <br />
       <br />
       <br />
       <br />
       <h1 className="text-green-500 font-semibold text-xl">
-        Achivement & Awards
+        Currently Working On 
       </h1>
       <span>
-        Proficient in [MERN Programming Language] Experience with [Full-stack
-        development] Strong grasp of [Design Principle/Concept] Excellent
-        problem-solving skill Effective communicator and collaborator.
+      I am currently working as a Full Stack Developer using the MERN stack (MongoDB, Express.js, React, and Node.js). I build responsive, dynamic, and user-friendly web applications from frontend to backend, focusing on clean code, performance, and modern design practices.
       </span>
       <br />
       <br />
@@ -52,7 +47,7 @@ function About() {
       </h1>
       <p>
         My mission is to leverage my skill and creativity to deliver innovative
-        [CSIT] solutions that exceed client expectations and contribute
+        solutions that exceed client expectations and contribute
         positively to the digital landscape. I am committed to continous
         Learning & Growyh, always seeking new challenge and opportunities to
         expand my horizons.

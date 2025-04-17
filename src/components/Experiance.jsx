@@ -5,9 +5,9 @@ function Experiance() {
     { id: 1, logo: "/html.png", name: "HTML" },
     { id: 2, logo: "/css.png", name: "CSS" },
     { id: 3, logo: "/javascript.png", name: "JavaScript" },
-    { id: 4, logo: "/oracle.png", name: "Oracle" },
-    { id: 5, logo: "/spring.png", name: "Spring" },
-    { id: 6, logo: "/springboot.png", name: "SpringBoot" },
+    // { id: 4, logo: "/oracle.png", name: "Oracle" },
+    // { id: 5, logo: "/spring.png", name: "Spring" },
+    // { id: 6, logo: "/springboot.png", name: "SpringBoot" },
   ];
 
   return (

@@ -35,7 +35,7 @@ function Navbar() {
             <img src={photo} className="h-12 w-12 rounded-full" alt="Profile" />
             <div>
               <h1 className="font-semibold text-xl cursor-pointer">
-                Kiran <span className="text-green-500 text-2xl">Giri</span>
+                Kiran Kumar <span className="text-green-500 text-2xl">Giri</span>
               </h1>
               <p className="text-sm text-blue-600">Web Developer</p>
             </div>

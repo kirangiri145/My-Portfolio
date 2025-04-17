@@ -26,7 +26,7 @@ function Contact() {
 
       if (response.ok) {
         toast.success("Your Message has been sent! 🎉");
-        reset(); // Clears the form after successful submission
+        reset(); 
       } else {
         toast.error("Something went wrong! Please try again.");
       }

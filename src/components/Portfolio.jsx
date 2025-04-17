@@ -5,7 +5,7 @@ function Portfolio() {
     { id: 1, logo: "/Java.jpeg", name: "Java" },
     { id: 2, logo: "/mongoes.png", name: "MongoDB" },
     { id: 3, logo: "/Express.png", name: "Express.js" },
-    { id: 4, logo: "/Python.webp", name: "Python" },
+    // { id: 4, logo: "/Python.webp", name: "Python" },
     { id: 5, logo: "/Reactjs.png", name: "React.js" },
     { id: 6, logo: "/nodejs.png", name: "Node.js" },
   ];
